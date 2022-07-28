@@ -34,7 +34,7 @@ python train_<experiments>.py
 The trained model will be saved in the folder ***SavedModels***. 
 
 ## Saved models
-For each dataset, we provide a 3-fold checkpoint performing as:
+We provide a 3-fold checkpoint for each dataset, which performing as:
 | Dataset | Macro AUC |
 | ----- |:--------:|
 | CRCS   | 96.15 |
