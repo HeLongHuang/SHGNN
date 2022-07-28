@@ -1,6 +1,6 @@
 ## Spatial-hierarchical Graph Neural Network with Dynamic Structure Learning for Histological Image Classification
 
-<div align=left>< img width="70%" src="./Pics/Overall.png"/></div>
+<div align=left><img width="70%" src="./Pics/Overall.png"/></div>
 
 ## Installation
 Clone the repo:
