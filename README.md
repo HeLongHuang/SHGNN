@@ -15,13 +15,15 @@ pip install -r requirements.txt
 ```
 
 ## Data Preprocess
-***gendata.ipynb*** shows how to transform a histological image into the hierarchical graphs. After the data processing is completed, put all hierarchical graphs into a folder. The form is as follows:
+***gendata.ipynb*** shows how to transform a histological image into the hierarchical graphs. After the data processing is completed, put all hierarchical graphs into ***PYG_Data*** folder. The form is as follows:
 ```bash
-Dataset
-   ├── pyg_data_1.pkl
-   ├── pyg_data_2.pkl
-   :
-   └── pyg_data_n.pkl
+PYG_Data
+    ├──
+    Dataset
+       ├── pyg_data_1.pkl
+       ├── pyg_data_2.pkl
+       :
+       └── pyg_data_n.pkl
 ```
 You also can download the processed graph data [here](https://cloud.189.cn/t/NziQRbUrAJju). The access code is:dei3
 
