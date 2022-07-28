@@ -85,7 +85,6 @@ h5py==3.4.0
 histocartography==0.2.0
 httplib2==0.19.1
 humanfriendly==9.2
-hyperg @ file:///home/houwentai/env/pyhwt/digestpath/hlh/HyperGraph/THU-HyperG
 hyperopt==0.1.2
 idna==2.10
 imagecodecs==2021.11.20
@@ -224,7 +223,6 @@ seaborn==0.11.2
 segmentation-models-pytorch==0.2.1
 Send2Trash==1.8.0
 simplejson==3.17.5
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 sklearn==0.0
 smmap==4.0.0
 spams==2.6.1
@@ -232,7 +230,6 @@ SQLAlchemy==1.4.25
 sqlparse==0.4.2
 staintools==2.1.2
 statsd==3.3.0
-SuperMoon @ file:///home/houwentai/env/pyhwt/digestpath/hlh/test/THU-DeepHypergraph-master
 tabulate==0.8.9
 tensorboard==2.9.0
 tensorboard-data-server==0.6.1
