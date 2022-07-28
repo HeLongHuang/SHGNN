@@ -13,8 +13,6 @@ conda create -n env python=3.8
 conda activate env
 pip install -r requirements.txt
 ```
-## Downloading the BRACS dataset
-Please click [here](https://cloud.189.cn/t/NziQRbUrAJju) to download the processed BRACS dataset.The access code is:dei3
 
 ## Data Preprocess
 ***gendata.ipynb*** shows how to transform a histological image into the hierarchical graphs. After the data processing is completed, put all hierarchical graphs into a folder. The form is as follows:
@@ -25,7 +23,7 @@ Dataset
    :
    └── pyg_data_n.pkl
 ```
-You also can download the processed graph data on baidu cloud.
+You also can download the processed graph data [here](https://cloud.189.cn/t/NziQRbUrAJju).The access code is:dei3
 
 ## Training
 First, setting the data splits and hyperparameters in the file ***train.py***. Then, experiments can be run using the following command-line:
