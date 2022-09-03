@@ -71,7 +71,7 @@ python inference_<experiments>.py
 
 
 ## Citation
-- If you found our work useful in your research, please consider citing our works at:
+- If you found our work useful in your research, please consider citing our work at:
 ```
 TBD
 ```
