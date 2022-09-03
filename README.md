@@ -24,7 +24,7 @@ PYG_Data
                     :
           └── pyg_data_n.pkl
 ```
-You also can download the processed graph data [here](https://cloud.189.cn/t/NziQRbUrAJju). The access code is:dei3
+You also can download the processed graph data [here](https://cloud.189.cn/t/NziQRbUrAJju). The access code is: dei3
 
 ## Training
 First, setting the data splits and hyperparameters in the file ***train.py***. Then, experiments can be run using the following command-line:
@@ -71,7 +71,7 @@ python inference_<experiments>.py
 
 
 ## Citation
-- If you found our work useful in your research, please consider citing our works(s) at:
+- If you found our work useful in your research, please consider citing our works at:
 ```
 TBD
 ```
