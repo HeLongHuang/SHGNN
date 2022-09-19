@@ -73,5 +73,18 @@ python inference_<experiments>.py
 ## Citation
 - If you found our work useful in your research, please consider citing our work at:
 ```
-TBD
+@InProceedings{10.1007/978-3-031-16434-7_18,
+author="Hou, Wentai
+and Huang, Helong
+and Peng, Qiong
+and Yu, Rongshan
+and Yu, Lequan
+and Wang, Liansheng",
+title="Spatial-Hierarchical Graph Neural Network with Dynamic Structure Learning for Histological Image Classification",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="181--191",
+}
 ```
